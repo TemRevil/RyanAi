@@ -94,4 +94,3 @@ $(document).ready(function(){
 });
 // ------------------------------------------------
 // API Event
-// AIzaSyARL-7-bpMFw0aPuz6fbzuxafolBEmBOs4 Google API Tool
